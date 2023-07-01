@@ -1,0 +1,10 @@
+Objetos básicos GIT:
+  -BLOBS
+  -TREES
+  -COMMIT
+
+Comandos windows:
+  -CD
+  -DIR
+  -MKDIR
+  -DEL/RMDIR
